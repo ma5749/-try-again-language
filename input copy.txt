@@ -1,0 +1,68 @@
+import mathematical.h
+import exchangeInfo.h
+
+root:
+{
+    
+    int a, b ,c,z;
+    float y;
+    #ali 
+    
+    a=8;
+    b=4;
+    c=3;
+  
+ 
+   
+    c= a+b;
+    
+    c=a-b;
+   
+    c=a*b;
+   
+    c=a/b;
+   
+
+    10++;
+    10--;
+
+    9>2;
+    2<9;
+    9==9;
+    2!=9;
+
+   
+    IF(a>b)
+    {
+        a+b;
+    }
+    ELSE
+    {
+        a-b;
+    }
+
+    IF(a<b)
+    {
+       a-b;
+    }
+
+    FOR (2<4)
+    {
+        a=a+b;
+    }
+   
+
+    WHILE(2<4)
+    {
+        a=a+b;
+    }
+    
+
+    a = 2 ^ 3 ;
+    c = sin (90) ;
+    c = cos (90) ;
+    b = fact (3);
+
+
+
+}

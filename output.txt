@@ -1,0 +1,149 @@
+
+Header file found :
+import mathematical.h
+
+Header file found :
+import exchangeInfo.h
+ ##### #ali Comment line 
+Decleration
+Decleration
+ ##### # InitializationComment line 
+
+Number :  5
+The Value is: 5	
+
+Number :  3
+The Value is: 3	
+Printed Value: 5
+ ##### # Basic Arithmetic OperationsComment line 
+
+Add Two Numbers : 5+3 = 8 
+The Value is: 8	
+ ##### # AdditionComment line 
+
+Subtract Two Numbers : 5-3=2 
+ The Value is: 2	
+ ##### # SubtractionComment line 
+
+Multi of Two Numbers : 5*3 
+ The Value is: 15	
+ ##### # MultiplicationComment line 
+
+Divi :5/3 
+ The Value is: 1	
+ ##### # Division (integer division)   Comment line 
+ ##### # Increment and Decrement Comment line 
+
+num before Increment : 5
+num after Increment : 6
+
+num before Decrement : 6
+num after Decrement : 5
+
+
+before Increment : 1
+after Increment : 1
+
+before Decrement : -15
+after Decrement : 0
+
+ ##### # Comparison OperationsComment line 
+
+Number :  5
+
+Number :  3
+
+Greater-Than  :5 > 3 
+ The value is: 1
+ ##### # TrueComment line 
+
+Number :  3
+
+Number :  7
+
+Less-Than :3 < 7 
+The value is: 1
+ ##### # TrueComment line 
+
+Number :  5
+
+Number :  5
+
+Equal : 5 == 5
+The value is: 1
+ ##### # TrueComment line 
+
+Number :  4
+
+Number :  6
+
+Inequal : 4 == 6
+The value is: 1
+ ##### # TrueComment line 
+ ##### # Conditional StatementsComment line 
+
+Greater-Than  :5 > 3 
+ 
+Number :  2
+
+Multi of Two Numbers : 5*2 
+  ##### # Double x if x > yComment line 
+
+Number :  2
+
+Multi of Two Numbers : 3*2 
+  ##### # Double y if x <= yComment line 
+The value in IF: 10
+
+Number :  10
+
+Greater-Than  :1 > 10 
+ 
+Number :  10
+
+Subtract Two Numbers : 1-10=-9 
+  ##### # FOR Loop ExampleComment line 
+condition value zero in IF block
+
+Number :  2
+
+Add Two Numbers : 1+2 = 3 
+The Value is: 3	
+ ##### # Add 2 to R for each iterationComment line 
+
+FOR Loop
+0th Loop's expression value: 3
+1th Loop's expression value: 3
+2th Loop's expression value: 3
+3th Loop's expression value: 3
+4th Loop's expression value: 3
+
+Number :  1
+
+Add Two Numbers : 3+1 = 4 
+The Value is: 4	
+ ##### # Increment RComment line 
+
+WHILE Loop
+2th Loop's expression value: 4
+3th Loop's expression value: 4
+ ##### # Mathematical OperationsComment line 
+
+Number :  90
+The Value is: 90	
+The Value is: 0	
+ ##### # Calculate sine of 90Comment line 
+The Value is: 1	
+ ##### # Calculate cosine of 90Comment line 
+
+Number :  2
+
+Number :  3
+The Value is: 8	
+ ##### # Power operation: 2 raised to the power 3Comment line 
+ ##### # Factorial ExampleComment line 
+
+Number :  4
+The Value is: 24	
+ ##### # Calculate factorial of 4 Comment line 
+Main Function Ends

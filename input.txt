@@ -1,0 +1,74 @@
+import mathematical.h
+import exchangeInfo.h
+
+root:
+{
+    #ali 
+    int x, y, R;
+    float A, S;
+    
+    # Initialization
+    x = 5;
+    y = 3;
+  
+    print(x);
+  # Basic Arithmetic Operations
+    R = x + y;    # Addition
+    R = x - y;    # Subtraction
+    R = x * y;    # Multiplication
+    R = x / y;    # Division (integer division)   
+# Increment and Decrement 
+    5++;
+    6--;
+    R++;
+    R--;
+
+    # Comparison Operations
+    5 > 3;    # True
+    3 < 7;    # True
+    5 == 5;   # True
+    4 != 6;   # True
+
+
+
+  # Conditional Statements
+    IF(x > y)
+    {
+         x * 2;   # Double x if x > y
+    }
+    ELSE
+    {
+         y * 2;   # Double y if x <= y
+    }
+
+
+     IF(R > 10)
+    {
+        R - 10;
+    }
+
+   # FOR Loop Example
+    FOR(0<5)
+    {
+        R = R + 2;   # Add 2 to R for each iteration
+    }
+
+   
+
+    WHILE(2<4)
+    {
+        R = R + 1;   # Increment R
+    }
+    
+
+     # Mathematical Operations
+    A = 90;
+    S = sin(A);    # Calculate sine of 90
+    C = cos(A);    # Calculate cosine of 90
+    R = 2 ^ 3;           # Power operation: 2 raised to the power 3
+
+   # Factorial Example
+    R = fact(4);         # Calculate factorial of 4 
+
+}
+
